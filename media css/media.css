@@ -1,0 +1,318 @@
+/* Tamamlanmayib */
+
+
+
+
+ @media only screen and (max-width: 992px){
+.pages1{
+    position: absolute;
+    left: 80%;
+    top: 45%;
+}
+.padding:hover .text-wrapper-hover1 {
+    visibility: visible;
+    display: none;
+}
+
+
+.features1{
+    position: absolute;
+    left: 91%;
+    top: 45%;
+}
+.elements-wrapper {
+   display: block;
+}
+
+.relative img {
+    padding: 0px 15px 0px 15px;
+}
+
+.upimages {
+   display: block;
+}
+
+.padding1 img {
+    padding: 0px 15px 30px 15px;
+}
+
+.lowimages {
+ display: block;
+}
+.elements-wrapper img{
+    width:991px;
+}
+.text-wrapper2{
+    position: absolute;
+    top: 460%;
+    width: 25%;
+    text-align: center;
+    left: 35%;
+ }   
+ 
+.text-wrapper1 {
+    position: absolute;
+    top: 285%;
+    width: 25%;
+    text-align: center;
+    left: 35%;
+}
+.text-wrapper4 {
+    position: absolute;
+    top: 842%;
+    width: 25%;
+    text-align: center;
+    left: 35%;
+}
+.text-wrapper3 {
+    position: absolute;
+    top: 645%;
+    width: 10%;
+    text-align: center;
+    left: 45%;
+}
+.star2 {
+    width: 50px;
+    height: 50px;
+    background-color: #fff;
+    position: absolute;
+    right: 21%;
+    bottom: 5%;
+}
+.secondman {
+    position: absolute;
+    left: 50%;
+    top: 100%;
+}
+.firstman {
+    position: absolute;
+    left: -3%;
+    top: 100%;
+}
+.imgg1{
+    display: none;
+}
+.eye5{
+    display: none;
+}
+.star5{
+    display: none;
+}
+.basket5{
+    display: none;
+}
+.basket6 i{
+    display: none;
+}
+.h4man{
+    display: none;
+}
+.pman{
+    display: none;
+}
+.liman{
+    display: none;
+}
+.eye3 {
+    width: 50px;
+    height: 50px;
+    background-color: #fff;
+    position: absolute;
+    right: 35%;
+    bottom: 5%;
+}
+.star2 {
+    width: 50px;
+    height: 50px;
+    background-color: #fff;
+    position: absolute;
+    right: 10%;
+    bottom: 5%;
+}
+.basket3 {
+    width: 50px;
+    height: 50px;
+    background-color: #fff;
+    position: absolute;
+    right: 23%;
+    bottom: 5%;
+}
+.star {
+    width: 50px;
+    height: 50px;
+    background-color: #fff;
+    position: absolute;
+    right: 74%;
+    bottom: 5%;
+}
+.star {
+    width: 50px;
+    height: 50px;
+    background-color: #fff;
+    position: absolute;
+    right: 62%;
+    bottom: 5%;
+}
+.imgwoman3{
+display: none;
+}
+.thirdwoman{
+    display: none;
+}
+.firstwoman {
+    position: absolute;
+    left: -3%;
+    top: 100%;
+}
+.secondwoman {
+    position: absolute;
+    left: 50%;
+    top: 100%;
+}
+.kidsimgg{
+    display: none;
+}
+.thirdkids{
+    display: none;
+}
+.firstkids {
+    position: absolute;
+    left: -3%;
+    top: 100%;
+}
+.secondkids {
+    position: absolute;
+    left: 50%;
+    top: 100%;
+}
+}
+@media only screen and (max-width: 768px){
+    .mansclothes img {
+        width: 350px;
+        height: 368.91px;
+        margin-right: -22px;
+        margin-left: 38px;
+    }
+    .firstman {
+        position: absolute;
+        left: -10%;
+        top: 100%;
+    }
+    .secondman {
+        position: absolute;
+        left: 58%;
+        top: 100%;
+    }
+    .star2 {
+        width: 50px;
+        height: 50px;
+        background-color: #fff;
+        position: absolute;
+        right: -10%;
+        bottom: 5%;
+    }
+    .basket3 {
+        width: 50px;
+        height: 50px;
+        background-color: #fff;
+        position: absolute;
+        right: 7%;
+        bottom: 5%;
+    }
+    .eye3 {
+        width: 50px;
+        height: 50px;
+        background-color: #fff;
+        position: absolute;
+        right: 25%;
+        bottom: 5%;
+    }
+    .star {
+        width: 50px;
+        height: 50px;
+        background-color: #fff;
+        position: absolute;
+        right: 58%;
+        bottom: 5%;
+    }
+    .firstwoman {
+        position: absolute;
+        left: -11%;
+        top: 100%;
+    }
+    .secondwoman {
+        position: absolute;
+        left: 58%;
+        top: 100%;
+    }
+    .firstkids {
+        position: absolute;
+        left: -11%;
+        top: 100%;
+    }
+    .secondkids {
+        position: absolute;
+        left: 58%;
+        top: 100%;
+    }
+    img {
+        width: 115px;
+        margin-left: -125px;
+    }
+    .elements-wrapper img {
+        width: 991px;
+        margin-top: 21px;
+    }
+    .text-wrapper3 {
+        position: absolute;
+        top: 670%;
+        width: 10%;
+        text-align: center;
+        left: 45%;
+    }
+    .text-wrapper4 {
+        position: absolute;
+        top: 870%;
+        width: 25%;
+        text-align: center;
+        left: 35%;
+    }
+    .text-wrapper2 {
+        position: absolute;
+        top: 485%;
+        width: 25%;
+        text-align: center;
+        left: 35%;
+    }
+}
+    @media only screen and (max-width: 576px){
+        .elements-wrapper img {
+            width: 716px;
+            margin-top: 21px;
+        }
+        img {
+            width: 115px;
+            margin-left: -80px;
+        }
+        .pages1 {
+            position: absolute;
+            left: 85%;
+            top: 45%;
+        }
+        .features1 {
+            position: absolute;
+            left: 99%;
+            top: 45%;
+        }
+        .navtext ul {
+            display: none;
+            justify-content: center;
+        }
+        .logo {
+            position: absolute;
+            left: 50%;
+        }
+        .container{
+            background-color: gray;
+        }
+    } 
